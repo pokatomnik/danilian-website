@@ -1,0 +1,12 @@
+.a {
+  color: #883333;
+  text-decoration-style: dotted;
+}
+
+.a:visited {
+  color: #883333;
+}
+
+.a:active {
+  color: #883333;
+}

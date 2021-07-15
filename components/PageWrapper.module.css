@@ -1,6 +1,4 @@
-import styled from 'styled-components';
-
-export const PageWrapper = styled.div`
+.pageWrapper {
   display: flex;
   flex-direction: column;
   width: 100vw;
@@ -10,4 +8,4 @@ export const PageWrapper = styled.div`
   font-family: 'Helvetica', sans-serif;
   padding: 50px 20px 100px;
   box-sizing: border-box;
-`;
+}
