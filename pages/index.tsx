@@ -117,6 +117,14 @@ export default function IndexPage() {
         <Link
           rel="noopener noreferrer"
           target="_blank"
+          href="https://github.com/pokatomnik/suspicious"
+        >
+          Suspicious (Android password manager app)
+        </Link>{' '}
+        |{' '}
+        <Link
+          rel="noopener noreferrer"
+          target="_blank"
           href="https://github.com/pokatomnik/how-can-i-typescript"
         >
           Typescript examples
