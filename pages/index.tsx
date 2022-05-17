@@ -129,6 +129,14 @@ export default function IndexPage() {
         >
           Typescript examples
         </Link>
+        <br />
+        <Link
+          rel="noopener noreferrer"
+          target="_blank"
+          href="https://github.com/pokatomnik/scp-foundation"
+        >
+          SCP Documents reader app
+        </Link>
       </Text>
     </PageWrapper>
   );
